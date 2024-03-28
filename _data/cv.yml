@@ -1,12 +1,7 @@
-- title: General Information
-  type: map
+- title: 
+  type: list
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    Xiuheng Wang received the B.E. degree in electronic and information engineering and the M.E. degree in signal and information processing from Northwestern Polytechnical University, Xi’an, China, in 2018 and 2021, respectively. He is currently pursuing a Ph.D. degree with the Université Côte d’Azur, Nice, France. His current research interests include optimization on manifolds, change point detection and hyperspectral image analysis.
 
 - title: Education
   type: time_table
@@ -19,12 +14,13 @@
     - title: Master of Engineering
       institution: Northwestern Polytechnical University
       year: 2021
+      description:
+        - Electronic and information engineering
     - title: Bachelor of Engineering
       institution: Northwestern Polytechnical University
       year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - Signal and information processing
 
 # - title: Experience
 #   type: time_table

@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-subtitle: PhD Candidate at <a href="https://univ-cotedazur.fr/">Universit\'e C\^ote d'Azur</a>
+subtitle: PhD Candidate at <a href="https://univ-cotedazur.fr/">Université Côte d'Azur</a>
 
 profile:
   align: right
@@ -16,6 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD Candidate at <a href="https://univ-cotedazur.fr/">Universit\'e C\^ote d'Azur</a>, ...
+I am a PhD Candidate at <a href="https://univ-cotedazur.fr/">Université Côte d'Azur</a>, ...
 
 My recent research interests focus on optimization on manifolds, change point detection, and hyperspectral image analysis. More details are available under the publications tab.

@@ -214,10 +214,8 @@ exclude:
   - LICENSE
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
-  - vendor
 keep_files:
   - CNAME
   - .nojekyll

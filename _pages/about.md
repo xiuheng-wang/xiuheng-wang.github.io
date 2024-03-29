@@ -20,4 +20,4 @@ I am a PhD Candidate in Electrical Engineering at <a href="https://lagrange.oca.
 
 Before that, I received my master degree in 2021 under the supervision of Professor <a href="https://www.jie-chen.com/">Jie Chen</a>, from Northwestern Polytechnical University, Xi’an, China, where I also received my bachelor degree in 2018.
 
-My recent research interests focus on optimization on manifolds, change point detection, and hyperspectral image analysis. More details are available under the publications tab.
+My recent research interests focus on optimization on manifolds, change point detection, and hyperspectral image analysis. A formal biography as well as academic CV are available <a href="https://xiuheng-wang.github.io/assets/pdf/cv_xiuheng_wang.pdf/">here</a>.

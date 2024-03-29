@@ -206,15 +206,12 @@ kramdown:
 include: ["_pages"]
 exclude:
   - bin/
-  - Dockerfile
-  - docker-compose.yml
-  - docker-compose-slim.yml
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - package.json
-  - package-lock.json
-  - purgecss.config.js
+  # - package.json
+  # - package-lock.json
+  # - purgecss.config.js
   - README.md
 keep_files:
   - CNAME

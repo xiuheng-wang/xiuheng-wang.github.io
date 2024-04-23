@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: PhD Candidate at <a href="https://univ-cotedazur.fr/">Université Côte d'Azur</a>
+subtitle: PhD Candidate at Université Côte d'Azur
 
 profile:
   align: right
@@ -21,3 +21,5 @@ I am a PhD Candidate in Electrical Engineering at <a href="https://lagrange.oca.
 Before that, I received my master degree in 2021 under the supervision of Professor <a href="https://www.jie-chen.com/">Jie Chen</a>, from Northwestern Polytechnical University, Xi’an, China, where I also received my bachelor degree in 2018.
 
 My recent research interests focus on optimization on manifolds, change point detection, and hyperspectral image analysis. A formal biography as well as academic CV are available <a href="https://xiuheng-wang.github.io/assets/pdf/cv_xiuheng_wang.pdf">here</a>.
+
+> I am currently on the job market.

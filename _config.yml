@@ -298,7 +298,7 @@ scholar:
 
   query: "@*"
   group_by: type,year
-  group_order: descending,descending
+  group_order: descending
 
 # Display different badges withs stats for your publications
 enable_publication_badges:

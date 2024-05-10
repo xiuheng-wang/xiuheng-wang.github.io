@@ -297,8 +297,11 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: year
-  group_order: descending
+  type_names: {article: Journal and ML Conf. papers, inproceedings: SP Conf. papers, thesis: Thesis}
+  order: descending
+  group_by: type
+  sort_by: year
+  type_order: [article, inproceedings, thesis]
 
 # Display different badges withs stats for your publications
 enable_publication_badges:

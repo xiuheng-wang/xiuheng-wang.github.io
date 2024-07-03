@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: PhD Candidate at Université Côte d'Azur
+subtitle: Doctor at Université Côte d'Azur
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a PhD Candidate in Electrical Engineering at <a href="https://lagrange.oca.eu/fr/accueil-lagrange/">Laboratoire Lagrange</a> of <a href="https://univ-cotedazur.fr/">Université Côte d'Azur</a>, under the supervision of Professor <a href="https://www.cedric-richard.fr/">Cédric Richard</a>. I also work with CNRS Researcher <a href="https://ricardoborsoi.github.io/">Ricardo Borsoi</a>.
+I obtained my PhD in Electrical Engineering at <a href="https://lagrange.oca.eu/fr/accueil-lagrange/">Laboratoire Lagrange</a> of <a href="https://univ-cotedazur.fr/">Université Côte d'Azur</a>, under the supervision of Professor <a href="https://www.cedric-richard.fr/">Cédric Richard</a>. I also work with CNRS Researcher <a href="https://ricardoborsoi.github.io/">Ricardo Borsoi</a>.
 
 Before that, I received my master degree in 2021 under the supervision of Professor <a href="https://www.jie-chen.com/">Jie Chen</a>, from <a href="https://en.nwpu.edu.cn/">Northwestern Polytechnical University</a>, Xi’an, China, where I also received my bachelor degree in 2018.
 

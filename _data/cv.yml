@@ -1,16 +1,16 @@
 - title: 
   type: list
   contents:
-    Xiuheng Wang received the B.E. degree in electronic and information engineering and the M.E. degree in signal and information processing from Northwestern Polytechnical University, Xi’an, China, in 2018 and 2021, respectively. He is currently pursuing a Ph.D. degree with Université Côte d’Azur, Nice, France. His current research interests include optimization on manifolds, change point detection and hyperspectral image analysis.
+    Xiuheng Wang received the B.E. degree in electronic and information engineering and the M.E. degree in signal and information processing from Northwestern Polytechnical University, Xi’an, China, in 2018 and 2021, respectively. He received the Ph.D. degree in engineering science from Université Côte d’Azur, Nice, France, in 2024. His current research interests include optimization on manifolds, change point detection and hyperspectral image analysis.
 
 - title: Education
   type: time_table
   contents:
-    # - title: 
-    #   institution: Université Côte d’Azur
-    #   year: 2024
-    #   description:
-    #     - Description 1.
+    - title: Doctor of Engineering Science / Doctorat Sciences pour L’Ingenieur
+      institution: Université Côte d’Azur
+      year: 2024
+      description:
+        - <a>Thesis:</a> Joint Modeling and Learning Approaches for Hyperspectral Imaging and Change Point Detection
     - title: Master of Engineering
       institution: Northwestern Polytechnical University
       year: 2021

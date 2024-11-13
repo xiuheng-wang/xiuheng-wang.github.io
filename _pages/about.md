@@ -9,7 +9,7 @@ profile:
   image: X_work_crop.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Faculté des Sciences et Technologies, Bâtiment 1er cycle, F-54000 Nancy, France.</p>
+    <p>Campus Aiguillettes, F-54000 Nancy, France, France.</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

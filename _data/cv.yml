@@ -12,24 +12,24 @@
   contents:
     - title: Postdoctral Researcher
       institution: Université de Lorraine
-      year: present
+      year: 2024-now
 
 - title: Education
   type: time_table
   contents:
     - title: Doctor of Engineering Science / Doctorat Sciences pour L’Ingenieur
       institution: Université Côte d’Azur
-      year: 2024
+      year: 2021-2024
       description:
         - <a>Thesis:</a> Joint Modeling and Learning Approaches for Hyperspectral Imaging and Change Point Detection
     - title: Master of Engineering
       institution: Northwestern Polytechnical University
-      year: 2021
+      year: 2018-2021
       description:
         - Signal and Information Processing
     - title: Bachelor of Engineering
       institution: Northwestern Polytechnical University
-      year: 2018
+      year: 2014-2018
       description:
         - Electronic and Information Engineering
 

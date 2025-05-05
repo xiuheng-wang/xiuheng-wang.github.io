@@ -23,4 +23,4 @@ I received my master degree in 2021 under the supervision of Prof. <a href="http
 
 My recent research interests focus on Riemannian optimization, change point detection, and hyperspectral imaging. A formal biography, as well as an academic CV, are available <a href="https://xiuheng-wang.github.io/assets/pdf/cv_xiuheng_wang.pdf">here</a>.
 
-> I will be in the job market in 2025 fall.
+> I am actively looking for a postdoc job in 2025 fall.

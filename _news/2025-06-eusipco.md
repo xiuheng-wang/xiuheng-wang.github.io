@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper Riemannian Change Point Detection on Manifolds with Robust Centroid Estimation has been accepted to EUSIPCO 2025.
+Our paper <a href="https://www.cedric-richard.fr/Articles/wang2025riemannian2.pdf">Riemannian Change Point Detection on Manifolds with Robust Centroid Estimation</a> has been accepted to EUSIPCO 2025.

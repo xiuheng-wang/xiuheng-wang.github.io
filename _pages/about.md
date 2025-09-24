@@ -21,7 +21,7 @@ I am a postdoctoral researcher with <a href="https://cran-simul.github.io/">SiMu
 Before that, I obtained my Ph.D. in Electrical Engineering in 2024 at <a href="https://lagrange.oca.eu/fr/accueil-lagrange/">Laboratoire Lagrange</a> at <a href="https://univ-cotedazur.fr/">Université Côte d'Azur</a>, France, under the supervision of Prof. <a href="https://www.cedric-richard.fr/">Cédric Richard</a>, also in collabration with Dr. <a href="https://ricardoborsoi.github.io/">Ricardo Borsoi</a>.
 I received my master degree in 2021 under the supervision of Prof. <a href="https://www.jie-chen.com/">Jie Chen</a>, from <a href="https://en.nwpu.edu.cn/">Northwestern Polytechnical University</a>, China, where I also received my bachelor degree in 2018.
 
-My research interests lie at the intersection of signal processing and machine learning, in particular:
+My research interests lie at the intersection of signal processing and machine learning, with special attention to
 * Riemannian optimization
 * Change point detection
 * Hyperspectral imaging

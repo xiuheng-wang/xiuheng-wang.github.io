@@ -26,6 +26,4 @@ My research interests lie at the intersection of statistical signal processing a
 * Change point detection
 * Hyperspectral imaging
 
-A formal biography, as well as an academic CV, are available <a href="https://xiuheng-wang.github.io/assets/pdf/cv_xiuheng_wang.pdf">here</a>.
-
-<!-- > I am currently on the job market. -->
+A formal biography is available <a href="https://xiuheng-wang.github.io/cv/">here</a>.

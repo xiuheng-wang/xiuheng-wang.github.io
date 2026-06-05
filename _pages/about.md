@@ -27,6 +27,6 @@ My research interests lie at the intersection of artificial intelligence and sig
 * Change point detection
 * Optimization (on manifolds)
 
-and their applications to hyperspectral imaging and distributed acoustic sensing.
+and application to hyperspectral imaging and distributed acoustic sensing.
 
 A formal biography is available <a href="https://xiuheng-wang.github.io/cv/">here</a>.

@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: 
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 A list of preprints and selected publications in journals, artificial intelligence (AI) and signal processing (SP) conference proceedings, by year of publication for published articles, and year of submission for preprints. A full list of works is available on <a href="https://scholar.google.com/citations?hl=en&user=xyfMMGIAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.
 

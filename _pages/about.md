@@ -29,4 +29,4 @@ My research interests lie at the intersection of artificial intelligence and sig
 
 and application to hyperspectral imaging and distributed acoustic sensing.
 
-A formal biography is available <a href="https://xiuheng-wang.github.io/cv/">here</a>.
+> I am always looking for self-motivated students and postdocs to work with. Please check the openings tab for details.

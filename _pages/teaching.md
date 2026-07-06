@@ -4,10 +4,12 @@ permalink: /teaching/
 title: Teaching
 # description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 **In English:**
+
+Machine Learning (Bachelor Course, School of Future Technology, 2026 Fall).
 
 TD & TP on <a href="https://sites.google.com/site/marianneclausel/home/lectures-2025-2026/m1-nlp-maths">Maths for NLP</a> (M1 Course, IDMC, Université de Lorraine, 2025-2026). 
 

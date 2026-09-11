@@ -22,8 +22,8 @@ Before that, I was a postdoctoral researcher during 2024-2026 at <a href="https:
 I obtained my Ph.D. in Electrical Engineering in 2024 at <a href="https://lagrange.oca.eu/fr/accueil-lagrange/">Laboratoire Lagrange</a>, <a href="https://univ-cotedazur.fr/">Université Côte d'Azur</a>, France, under the supervision of Prof. <a href="https://www.cedric-richard.fr/">Cédric Richard</a>.
 I received my master degree in 2021 under the supervision of Prof. <a href="https://www.jie-chen.com/">Jie Chen</a>, from <a href="https://en.nwpu.edu.cn/">Northwestern Polytechnical University</a>, China, where I also received my bachelor degree in 2018.
 
-My research interests lie at the intersection of artificial intelligence and signal processing, with special attention to
-* Deep generative models
+My research interests lie at the intersection of machine learning and signal processing, with special attention to
+* Large generative models
 * Change point detection
 * Optimization (on manifolds)
 
